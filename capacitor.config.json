@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tdsn2",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

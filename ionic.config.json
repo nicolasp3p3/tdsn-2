@@ -1,0 +1,8 @@
+{
+  "name": "tdsn2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "d4547245"
+}
